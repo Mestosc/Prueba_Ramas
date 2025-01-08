@@ -8,7 +8,3 @@ Uso de multiples ramas:
 
     - Main: La principal
         - Develop: Donde se llevara a cabo el desarrollo
-
-
-Estoy en una divergencia
-Cambios varios
